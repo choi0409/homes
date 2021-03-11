@@ -10,7 +10,7 @@
    
 ## Technologies Used   
 - Java, JSP, JSTL/EL, jQuery(Ajax), UI/UX Template(BootStrap)   
-- Framework : Spring+STS, ORM(Mybatis)   
+- Framework : Spring, ORM(Mybatis)   
 - OpenAPI : Google Maps/GeoCoding, jsoup   
 - RDBMS: Oracle   
 - CM : Git(branch)   
